@@ -1,0 +1,20 @@
+{
+  "name": "apolo_bcore",
+  "homepage": "https://github.com/Marcelo1180/apolo_bcore",
+  "authors": [
+    "Marcelo Arteaga <jarteaga@agetic.gob.bo>"
+  ],
+  "description": "Proyecto Apolo MONO",
+  "main": "",
+  "license": "GPLv3",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "gentelella": "^1.4.0"
+  }
+}

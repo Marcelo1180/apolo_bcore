@@ -1,0 +1,20 @@
+{
+  "name": "template",
+  "description": "marcelo arteaga template",
+  "main": "",
+  "authors": [
+    "marcelo arteaga"
+  ],
+  "license": "mit",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
